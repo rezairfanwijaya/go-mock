@@ -1,0 +1,5 @@
+mode: set
+go-test/plane/plane.go:14.54,16.2 1 1
+go-test/plane/plane.go:18.44,23.2 3 1
+go-test/plane/plane.go:25.43,27.2 1 1
+go-test/plane/plane.go:29.41,31.2 1 1
