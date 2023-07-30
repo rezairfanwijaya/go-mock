@@ -1,2 +1,2 @@
 ### coverage
-[coverage](image/cover.png)
+![coverage](image/cover.png)
